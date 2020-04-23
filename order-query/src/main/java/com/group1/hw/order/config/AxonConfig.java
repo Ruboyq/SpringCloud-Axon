@@ -13,10 +13,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-
-/**
- * Created by mavlarn on 2018/6/4.
- */
 @Configuration
 public class AxonConfig {
 

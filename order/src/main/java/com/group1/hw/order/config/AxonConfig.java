@@ -23,9 +23,6 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.concurrent.Executors;
 
 
-/**
- * Created by mavlarn on 2018/6/4.
- */
 @Configuration
 public class AxonConfig {
 

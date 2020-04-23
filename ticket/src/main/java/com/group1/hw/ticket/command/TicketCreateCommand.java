@@ -2,9 +2,6 @@ package com.group1.hw.ticket.command;
 
 import org.axonframework.commandhandling.TargetAggregateIdentifier;
 
-/**
- * Created by mavlarn on 2018/5/28.
- */
 public class TicketCreateCommand {
 
     @TargetAggregateIdentifier

@@ -4,9 +4,7 @@ import org.axonframework.commandhandling.TargetAggregateIdentifier;
 
 import javax.validation.constraints.Min;
 
-/**
- * Created by mavlarn on 2018/5/22.
- */
+
 public class CustomerDepositCommand {
 
     @TargetAggregateIdentifier

@@ -1,8 +1,6 @@
 package com.group1.hw.user.event;
 
-/**
- * Created by mavlarn on 2018/5/22.
- */
+
 public class CustomerCreatedEvent {
 
     private String customerId;

@@ -11,9 +11,6 @@ import org.axonframework.eventsourcing.EventSourcingHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by mavlarn on 2018/5/22.
- */
 @Service
 @ProcessingGroup("OrderEventProcessor")
 public class OrderProjector {

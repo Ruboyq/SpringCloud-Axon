@@ -12,9 +12,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-/**
- * Created by mavlarn on 2018/6/5.
- */
 @Component
 @ProcessingGroup("TicketEventProcessor")
 public class TicketProjector {

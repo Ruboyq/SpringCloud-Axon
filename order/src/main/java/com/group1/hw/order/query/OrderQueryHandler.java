@@ -7,9 +7,6 @@ import org.axonframework.spring.config.AxonConfiguration;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-/**
- * Created by mavlarn on 2018/5/29.
- */
 @Component
 public class OrderQueryHandler {
 

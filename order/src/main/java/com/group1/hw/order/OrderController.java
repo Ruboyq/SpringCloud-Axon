@@ -10,9 +10,6 @@ import org.springframework.web.bind.annotation.*;
 import java.util.UUID;
 import java.util.concurrent.ExecutionException;
 
-/**
- * Created by mavlarn on 2018/5/28.
- */
 @RestController
 @RequestMapping("/orders")
 public class OrderController {

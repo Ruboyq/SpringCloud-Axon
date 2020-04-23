@@ -4,9 +4,6 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
-/**
- * Created by mavlarn on 2018/1/20.
- */
 @Entity(name = "tb_customer")
 public class CustomerEntity {
 

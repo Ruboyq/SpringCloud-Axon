@@ -9,9 +9,6 @@ import org.axonframework.eventhandling.EventHandler;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * Created by mavlarn on 2018/5/22.
- */
 @Service
 @ProcessingGroup("UserEventProcessor")
 public class CustomerProjector {

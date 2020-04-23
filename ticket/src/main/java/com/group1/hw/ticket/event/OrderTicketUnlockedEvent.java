@@ -1,8 +1,5 @@
 package com.group1.hw.ticket.event;
 
-/**
- * Created by mavlarn on 2018/5/27.
- */
 public class OrderTicketUnlockedEvent {
 
     private String ticketId;

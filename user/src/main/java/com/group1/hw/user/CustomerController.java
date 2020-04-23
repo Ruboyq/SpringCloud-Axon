@@ -14,9 +14,6 @@ import java.util.List;
 import java.util.UUID;
 import java.util.concurrent.CompletableFuture;
 
-/**
- * Created by mavlarn on 2018/5/22.
- */
 @RestController
 @RequestMapping("/customers")
 public class  CustomerController {

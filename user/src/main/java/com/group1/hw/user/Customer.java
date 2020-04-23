@@ -19,9 +19,6 @@ import org.slf4j.LoggerFactory;
 
 import static org.axonframework.commandhandling.model.AggregateLifecycle.apply;
 
-/**
- * Created by mavlarn on 2018/5/24.
- */
 @Aggregate
 public class Customer {
 

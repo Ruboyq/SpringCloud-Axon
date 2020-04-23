@@ -2,9 +2,6 @@ package com.group1.hw.order.command;
 
 import org.axonframework.commandhandling.TargetAggregateIdentifier;
 
-/**
- * Created by mavlarn on 2018/5/24.
- */
 public class OrderFinishCommand {
 
     @TargetAggregateIdentifier

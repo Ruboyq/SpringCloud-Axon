@@ -2,9 +2,6 @@ package com.group1.hw.order.query;
 
 import org.axonframework.common.Assert;
 
-/**
- * Created by mavlarn on 2018/6/27.
- */
 public class OrderId {
 
     private final String identifier;

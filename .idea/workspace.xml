@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54bae2af-0257-4f0e-bca8-f8b386ccffc1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/order-query/src/main/java/com/imooc/example/order/query/OrderProjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/order-query/src/main/java/com/imooc/example/order/query/OrderProjector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/order-query/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/order-query/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/order/src/main/java/com/imooc/example/order/config/AxonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/order/src/main/java/com/imooc/example/order/config/AxonConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/order/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/proxy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/proxy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/ticket/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/ticket/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/user/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-c8-2-spring-cloud-axon-example/user/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-query/src/main/java/com/group1/hw/order/config/AxonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-query/src/main/java/com/group1/hw/order/config/AxonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-query/src/main/java/com/group1/hw/order/query/OrderEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-query/src/main/java/com/group1/hw/order/query/OrderEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-query/src/main/java/com/group1/hw/order/query/OrderProjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-query/src/main/java/com/group1/hw/order/query/OrderProjector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/src/main/java/com/group1/hw/proxy/HttpMethodZuulFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/src/main/java/com/group1/hw/proxy/HttpMethodZuulFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/command/TicketCreateCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/command/TicketCreateCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/config/AxonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/config/AxonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/event/OrderTicketUnlockedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/event/OrderTicketUnlockedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/event/TicketCreatedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/event/TicketCreatedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/query/TicketProjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/query/TicketProjector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/web/TicketController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ticket/src/main/java/com/group1/hw/ticket/web/TicketController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/command/CustomerChargeCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/command/CustomerChargeCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/command/CustomerCreateCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/command/CustomerCreateCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/command/CustomerDepositCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/command/CustomerDepositCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/config/AxonConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/config/AxonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/event/CustomerChargedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/event/CustomerChargedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/event/CustomerCreatedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/event/CustomerCreatedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/event/CustomerDepositedEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/event/CustomerDepositedEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/query/CustomerEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/query/CustomerEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/query/CustomerEntityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/query/CustomerEntityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/query/CustomerProjector.java" beforeDir="false" afterPath="$PROJECT_DIR$/user/src/main/java/com/group1/hw/user/query/CustomerProjector.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1auKaPHmGEGTEpcWZp0IDikHsAV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -163,7 +179,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587580101628</updated>
       <workItem from="1587580103159" duration="3112000" />
-      <workItem from="1587622864470" duration="3451000" />
+      <workItem from="1587622864470" duration="4722000" />
+      <workItem from="1587647185392" duration="2396000" />
     </task>
     <servers />
   </component>

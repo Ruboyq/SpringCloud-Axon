@@ -18,9 +18,6 @@ import java.time.ZonedDateTime;
 
 import static org.axonframework.commandhandling.model.AggregateLifecycle.apply;
 
-/**
- * Created by mavlarn on 2018/1/20.
- */
 @Aggregate
 public class Order {
 

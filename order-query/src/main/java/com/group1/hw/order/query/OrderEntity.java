@@ -4,9 +4,6 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import java.time.ZonedDateTime;
 
-/**
- * Created by mavlarn on 2018/1/20.
- */
 @Entity(name = "tb_customer_order")
 public class OrderEntity {
 

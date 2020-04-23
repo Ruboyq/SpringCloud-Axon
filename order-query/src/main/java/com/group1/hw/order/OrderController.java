@@ -10,9 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * Created by mavlarn on 2018/5/28.
- */
 @RestController
 @RequestMapping("/orders")
 public class OrderController {

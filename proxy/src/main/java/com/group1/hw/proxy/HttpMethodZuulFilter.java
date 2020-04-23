@@ -10,9 +10,6 @@ import javax.servlet.http.HttpServletRequest;
 
 import static org.springframework.cloud.netflix.zuul.filters.support.FilterConstants.ROUTE_TYPE;
 
-/**
- * Created by mavlarn on 2018/6/6.
- */
 @Component
 public class HttpMethodZuulFilter extends ZuulFilter {
 

@@ -1,8 +1,5 @@
 package com.group1.hw.ticket.event;
 
-/**
- * Created by mavlarn on 2018/5/28.
- */
 public class TicketCreatedEvent {
 
     private String ticketId;
